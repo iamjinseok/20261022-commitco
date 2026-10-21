@@ -49,7 +49,7 @@ gantt
 
     section 자료
     슬라이드 만들기     :done, a3, 2026-10-18, 2d
-    데모 저장소 준비    :active, a4, 2026-10-21, 1d
+    데모 저장소 준비    :done, a4, 2026-10-21, 1d
 
     section 발표
     발표 당일           :milestone, m1, 2026-10-22, 0d
