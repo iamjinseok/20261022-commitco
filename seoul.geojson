@@ -1,0 +1,18 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": { "name": "서울시청" },
+      "geometry": { "type": "Point", "coordinates": [126.9779, 37.5665] }
+    },
+    {
+      "type": "Feature",
+      "properties": { "name": "서울역에서 시청까지" },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [[126.9724, 37.5547], [126.9779, 37.5665]]
+      }
+    }
+  ]
+}
